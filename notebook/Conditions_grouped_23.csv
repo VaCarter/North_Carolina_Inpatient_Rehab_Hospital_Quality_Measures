@@ -1,0 +1,120 @@
+,County/Parish,Condition,Count,Percent_Condition
+0,Buncombe,All other conditions,298.0,25.14767932489452
+1,Buncombe,Brain disease or condition (non-traumatic),78.0,6.582278481012659
+2,Buncombe,Brain injury (traumatic),76.0,6.413502109704641
+3,Buncombe,Hip or femur fracture,107.0,9.029535864978904
+4,Buncombe,"Hip or knee replacement, amputation or other bone or joint condition",150.0,12.658227848101266
+5,Buncombe,Nervous system disorder (excluding stroke),88.0,7.4261603375527425
+6,Buncombe,Spinal cord disease or condition (non-traumatic),41.0,3.459915611814346
+7,Buncombe,Spinal cord injury (traumatic),15.0,1.2658227848101267
+8,Buncombe,Stroke,332.0,28.0168776371308
+9,Catawba,All other conditions,41.0,24.550898203592812
+10,Catawba,Brain disease or condition (non-traumatic),12.0,7.18562874251497
+11,Catawba,"Hip or knee replacement, amputation or other bone or joint condition",11.0,6.58682634730539
+12,Catawba,Nervous system disorder (excluding stroke),11.0,6.58682634730539
+13,Catawba,Spinal cord disease or condition (non-traumatic),17.0,10.179640718562874
+14,Catawba,Stroke,75.0,44.91017964071856
+15,Craven,All other conditions,48.0,21.818181818181817
+16,Craven,Hip or femur fracture,44.0,20.0
+17,Craven,"Hip or knee replacement, amputation or other bone or joint condition",30.0,13.636363636363635
+18,Craven,Nervous system disorder (excluding stroke),12.0,5.454545454545454
+19,Craven,Spinal cord disease or condition (non-traumatic),18.0,8.181818181818182
+20,Craven,Stroke,68.0,30.909090909090907
+21,Cumberland,All other conditions,99.0,18.299445471349355
+22,Cumberland,Brain disease or condition (non-traumatic),41.0,7.578558225508318
+23,Cumberland,Brain injury (traumatic),17.0,3.1423290203327174
+24,Cumberland,Hip or femur fracture,58.0,10.720887245841034
+25,Cumberland,"Hip or knee replacement, amputation or other bone or joint condition",113.0,20.88724584103512
+26,Cumberland,Nervous system disorder (excluding stroke),27.0,4.990757855822551
+27,Cumberland,Spinal cord disease or condition (non-traumatic),50.0,9.242144177449168
+28,Cumberland,Stroke,136.0,25.13863216266174
+29,Durham,All other conditions,56.0,20.437956204379564
+30,Durham,Brain disease or condition (non-traumatic),27.0,9.854014598540147
+31,Durham,Hip or femur fracture,23.0,8.394160583941606
+32,Durham,"Hip or knee replacement, amputation or other bone or joint condition",41.0,14.963503649635038
+33,Durham,Spinal cord disease or condition (non-traumatic),51.0,18.613138686131386
+34,Durham,Stroke,76.0,27.73722627737226
+35,Forsyth,All other conditions,219.0,15.061898211829435
+36,Forsyth,Brain disease or condition (non-traumatic),125.0,8.59697386519945
+37,Forsyth,Brain injury (traumatic),73.0,5.020632737276479
+38,Forsyth,Hip or femur fracture,84.0,5.777166437414031
+39,Forsyth,"Hip or knee replacement, amputation or other bone or joint condition",210.0,14.442916093535077
+40,Forsyth,Nervous system disorder (excluding stroke),186.0,12.792297111416781
+41,Forsyth,Spinal cord disease or condition (non-traumatic),82.0,5.639614855570839
+42,Forsyth,Spinal cord injury (traumatic),15.0,1.031636863823934
+43,Forsyth,Stroke,460.0,31.636863823933975
+44,Guilford,All other conditions,139.0,19.744318181818183
+45,Guilford,Brain disease or condition (non-traumatic),31.0,4.403409090909091
+46,Guilford,Brain injury (traumatic),43.0,6.107954545454546
+47,Guilford,Hip or femur fracture,60.0,8.522727272727272
+48,Guilford,"Hip or knee replacement, amputation or other bone or joint condition",84.0,11.931818181818182
+49,Guilford,Nervous system disorder (excluding stroke),25.0,3.5511363636363638
+50,Guilford,Spinal cord disease or condition (non-traumatic),23.0,3.2670454545454546
+51,Guilford,Stroke,299.0,42.471590909090914
+52,Lenoir,All other conditions,35.0,26.923076923076923
+53,Lenoir,Hip or femur fracture,11.0,8.461538461538462
+54,Lenoir,"Hip or knee replacement, amputation or other bone or joint condition",24.0,18.461538461538463
+55,Lenoir,Stroke,60.0,46.15384615384615
+56,Mecklenburg,All other conditions,547.0,24.45239159588735
+57,Mecklenburg,Brain disease or condition (non-traumatic),188.0,8.404112650871703
+58,Mecklenburg,Brain injury (traumatic),101.0,4.514975413500223
+59,Mecklenburg,Hip or femur fracture,139.0,6.2136790344211
+60,Mecklenburg,"Hip or knee replacement, amputation or other bone or joint condition",248.0,11.086276262852033
+61,Mecklenburg,Nervous system disorder (excluding stroke),101.0,4.514975413500223
+62,Mecklenburg,Spinal cord disease or condition (non-traumatic),210.0,9.387572641931158
+63,Mecklenburg,Spinal cord injury (traumatic),57.0,2.548055431381314
+64,Mecklenburg,Stroke,646.0,28.877961555654895
+65,Moore,All other conditions,16.0,13.114754098360656
+66,Moore,Brain injury (traumatic),11.0,9.01639344262295
+67,Moore,"Hip or knee replacement, amputation or other bone or joint condition",24.0,19.672131147540984
+68,Moore,Spinal cord disease or condition (non-traumatic),17.0,13.934426229508196
+69,Moore,Stroke,54.0,44.26229508196721
+70,Nash,All other conditions,95.0,25.956284153005466
+71,Nash,Brain disease or condition (non-traumatic),11.0,3.0054644808743167
+72,Nash,Hip or femur fracture,61.0,16.666666666666664
+73,Nash,"Hip or knee replacement, amputation or other bone or joint condition",77.0,21.03825136612022
+74,Nash,Stroke,122.0,33.33333333333333
+75,New Hanover,All other conditions,133.0,23.050259965337954
+76,New Hanover,Brain disease or condition (non-traumatic),29.0,5.025996533795494
+77,New Hanover,Brain injury (traumatic),19.0,3.2928942807625647
+78,New Hanover,Hip or femur fracture,44.0,7.625649913344887
+79,New Hanover,"Hip or knee replacement, amputation or other bone or joint condition",68.0,11.785095320623917
+80,New Hanover,Nervous system disorder (excluding stroke),22.0,3.8128249566724435
+81,New Hanover,Spinal cord disease or condition (non-traumatic),47.0,8.145580589254767
+82,New Hanover,Stroke,215.0,37.26169844020797
+83,Orange,All other conditions,85.0,28.428093645484946
+84,Orange,Brain disease or condition (non-traumatic),19.0,6.354515050167224
+85,Orange,Hip or femur fracture,14.0,4.682274247491638
+86,Orange,"Hip or knee replacement, amputation or other bone or joint condition",58.0,19.39799331103679
+87,Orange,Nervous system disorder (excluding stroke),13.0,4.3478260869565215
+88,Orange,Spinal cord disease or condition (non-traumatic),40.0,13.377926421404682
+89,Orange,Stroke,70.0,23.411371237458194
+90,Pitt,All other conditions,208.0,24.644549763033176
+91,Pitt,Brain disease or condition (non-traumatic),69.0,8.175355450236967
+92,Pitt,Brain injury (traumatic),51.0,6.042654028436019
+93,Pitt,Hip or femur fracture,47.0,5.568720379146919
+94,Pitt,"Hip or knee replacement, amputation or other bone or joint condition",104.0,12.322274881516588
+95,Pitt,Nervous system disorder (excluding stroke),23.0,2.7251184834123223
+96,Pitt,Spinal cord disease or condition (non-traumatic),63.0,7.464454976303317
+97,Pitt,Spinal cord injury (traumatic),28.0,3.3175355450236967
+98,Pitt,Stroke,251.0,29.739336492890995
+99,Rowan,All other conditions,13.0,8.96551724137931
+100,Rowan,Brain disease or condition (non-traumatic),12.0,8.275862068965518
+101,Rowan,Hip or femur fracture,25.0,17.24137931034483
+102,Rowan,"Hip or knee replacement, amputation or other bone or joint condition",23.0,15.862068965517242
+103,Rowan,Nervous system disorder (excluding stroke),35.0,24.137931034482758
+104,Rowan,Spinal cord disease or condition (non-traumatic),15.0,10.344827586206897
+105,Rowan,Stroke,22.0,15.172413793103448
+106,Vance,All other conditions,36.0,32.432432432432435
+107,Vance,Hip or femur fracture,19.0,17.117117117117118
+108,Vance,"Hip or knee replacement, amputation or other bone or joint condition",19.0,17.117117117117118
+109,Vance,Stroke,37.0,33.33333333333333
+110,Wake,All other conditions,185.0,18.26258637709773
+111,Wake,Brain disease or condition (non-traumatic),51.0,5.034550839091807
+112,Wake,Brain injury (traumatic),69.0,6.811451135241856
+113,Wake,Hip or femur fracture,89.0,8.7857847976308
+114,Wake,"Hip or knee replacement, amputation or other bone or joint condition",198.0,19.545903257650544
+115,Wake,Nervous system disorder (excluding stroke),27.0,2.665350444225074
+116,Wake,Spinal cord disease or condition (non-traumatic),70.0,6.910167818361303
+117,Wake,Spinal cord injury (traumatic),25.0,2.4679170779861797
+118,Wake,Stroke,299.0,29.516288252714705
