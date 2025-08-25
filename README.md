@@ -2,18 +2,17 @@
 A comparitive analysis of the quality measure scores of Inpatient Rehab Hospitals in North Carolina.
 
 ## Table of Contents
-1. Introduction
-2. Quality Measure I019.02: Discharge to the Community
-3. Quality Measure I018.01: Potentially Preventable Within Stay Readmission Measure
-4. Quality Measure I022.01: Percent of Residents Experiencing One or More Falls with Major Injury
-5. Quality Measure I026.01: Discharge Function Score
-6. Regional Growth
-7. Location of Inpatient Rehab Facilities in North Carolina
-8. Key Takeaways
-9. Thoughts to Consider
+* [Canva Presentation](#Tableau-dashboard)
+* [Motivation](#motivation)
+* [Questions](#questions)
+* [Normalizing the Data](#normalizing-the-data)
+* [Problems and Hurdles](#problems-and-hurdles)
+* [Technologies Used](#technologies-used)
+* [Data Sources](#data-sources)
+* [Conclusion](#conclusion)
 
 ## Presentation
-link here
+https://www.canva.com/design/DAGwLbN1vs4/PsJTERQtYfK5Nr3FoTzdMQ/edit?utm_content=DAGwLbN1vs4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## Motivation
 Having been a physical therapist in the acute care and non-clinical settings for over 13 years, functional outcome measures were a key component of evaluations and periodical reassessments.  These measures track progress, determine disability level, and help assist in discharge planning.  Similarly, inpatient rehab hospitals also have a standardized measurement tool (Patient Assessment Instrument, PAI) used for assessing different aspects of patient progression and quality of care of the facility. These scores are colllected by CMS and reported out in the Inpatient Rehab Facility Quality Reporting Program. For this project, I wanted to explore North Carolina inpatient rehab hospitals and their scores on specific quality measures as reported by CMS.  These measures look at the quality and effectiveness of care provided in the hospital.  They are also used to identify facilities that may be falling behind the national average or not meeting certain criteria for quality control.  
@@ -23,9 +22,6 @@ Having been a physical therapist in the acute care and non-clinical settings for
 2. Does organization type seem to have any correlating effect on these measures?
 3. Are there any regional differences in regards to performance on quality measures identified for this study?
 4. Are there any areas to consider additional need for IRFs in regards to population growth of senior citizens?
-
-
-## Data Tables Created
 
 ## Normalizing the data
 - To ensure most recent quality reporting as able, I chose the last three years (2023-2025) to look at.
@@ -45,3 +41,7 @@ https://www.cms.gov/medicare/quality/inpatient-rehabilitation-facility/irf-quali
 https://www.cms.gov/files/document/irf-quality-measure-calculations-and-reporting-users-manual-v40.pdf
 
 https://www.osbm.nc.gov/facts-figures/population-demographics
+
+## Conclusion
+
+
