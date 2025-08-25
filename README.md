@@ -2,7 +2,7 @@
 A comparitive analysis of the quality measure scores of Inpatient Rehab Hospitals in North Carolina.
 
 ## Table of Contents
-* [Presentation](#Canva-presentation)
+* [Presentation](#Presentation)
 * [Motivation](#motivation)
 * [Questions](#questions)
 * [Normalizing the Data](#normalizing-the-data)
