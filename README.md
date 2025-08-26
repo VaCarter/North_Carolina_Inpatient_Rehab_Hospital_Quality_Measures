@@ -15,20 +15,23 @@ A comparitive analysis of the quality measure scores of Inpatient Rehab Hospital
 https://www.canva.com/design/DAGwLbN1vs4/PsJTERQtYfK5Nr3FoTzdMQ/edit?utm_content=DAGwLbN1vs4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## Motivation
-Having been a physical therapist in the acute care and non-clinical settings for over 13 years, functional outcome measures were a key component of evaluations and periodical reassessments.  These measures track progress, determine disability level, and help assist in discharge planning.  Similarly, inpatient rehab hospitals also have a standardized measurement tool (Patient Assessment Instrument, PAI) used for assessing different aspects of patient progression and quality of care of the facility. These scores are colllected by CMS and reported out in the Inpatient Rehab Facility Quality Reporting Program. For this project, I wanted to explore North Carolina inpatient rehab hospitals and their scores on specific quality measures as reported by CMS.  These measures look at the quality and effectiveness of care provided in the rehab hospital.  They are also used to identify facilities that may be falling behind the national average or not meeting certain criteria for quality control.  
+As a physical therapist with over 13 years of experience in both acute care and non-clinical settings, I have consistently relied on functional outcome measures as a key component of patient evaluations and periodic reassessments. These tools are essential for tracking patient progress, determining levels of disability, and supporting effective discharge planning.
+
+In a similar manner, inpatient rehabilitation hospitals utilize a standardized measurement tool known as the Patient Assessment Instrument (PAI). This instrument is designed to evaluate various aspects of patient progress and the quality of care delivered by the facility. The data collected through the PAI is submitted to the Centers for Medicare & Medicaid Services (CMS) and contributes to the Inpatient Rehabilitation Facility (IRF) Quality Reporting Program.
+
+For this project, I aim to explore inpatient rehabilitation hospitals in North Carolina and analyze their performance on specific quality measures as reported by CMS. These measures reflect the quality and effectiveness of care provided and are critical for identifying facilities that may be underperforming compared to national benchmarks or failing to meet established quality standards.
 
 ## Questions:
-1. How does North Carolina IRFs performance on identified quality measures compare to the national average? 
-2. Does organization type seem to have any correlating effect on these measures?
-3. Are there any regional differences in regards to performance on quality measures identified for this study?
-4. Are there any areas to consider additional need for IRFs in regards to population growth of senior citizens?
+1. How does the performance of North Carolina inpatient rehabilitation facilities (IRFs) on the identified quality measures compare to the national average?
+2. Does the type of organization (e.g., non-profit, for-profit, government) appear to correlate with performance on these quality measures?
+3. Are there notable regional differences in the performance of North Carolina IRFs on the selected quality measures?
+4. Are there regions in North Carolina where additional inpatient rehabilitation facilities may be needed, based on senior population growth trends?
 
 ## Normalizing the data
-- To ensure most recent quality reporting as able, I chose the last three years (2023-2025) to look at.
-- As qulaity measures are reported out quarterly, I chose June as my reference point to ensure consistency in regards to length of time between reports. I also developed a list of specific counties in North Carolina that hold inpatient rehab hospitals, and then used this list throughout the project to ensure consistency in reporting across all measures, regions, and organization type. 
+To ensure the most recent and relevant quality reporting, I focused on data from the past three years (2023–2025). Since quality measures are reported quarterly, I selected June as a consistent reference point to maintain uniformity in the time intervals between reports. Additionally, I compiled a list of specific counties in North Carolina that contain inpatient rehabilitation hospitals. This list was used throughout the project to ensure consistency in data reporting across all quality measures, geographic regions, and organizational types.
 
 ## Problems and Hurdles
-In my analysis of the Discharge Function score, I learned that this measure was only recently added to the Quality Reporting Program in 2023. This is the only measure that has data not consistent with the other measures, as it only has about one year of data collected thus far.  
+During my analysis of the Discharge Function Score, I discovered that this measure was only recently introduced to the Inpatient Rehabilitation Facility Quality Reporting Program in 2023. As a result, it is the only quality measure with a limited dataset—reflecting just about one year of collected data—which makes it inconsistent with the other measures in terms of reporting history and depth.
 
 ## Technologies Used
 I used Python for data analysis and Power BI for creation of visualizations.
@@ -43,5 +46,4 @@ https://www.cms.gov/files/document/irf-quality-measure-calculations-and-reportin
 https://www.osbm.nc.gov/facts-figures/population-demographics
 
 ## Conclusion
-North Carolina as a whole performed better than the national average in the four quality measures reported on. Regionally, Eastern North Carolina consistently performed poorly in terms of quality measure performance compared to the other two regions. Data suggests that non-profit organizations have higher readmission and falls with major injury rates, but it is important to note that non-profits make up the majority of the type of IRFs in the state. More study could be done to examine potential causes of Eastern North Carolina's lower performance scores.  Additional data is needed to make an accurate analyis of the Discharge Function score due to very limited data available at the time of this project.
-
+Overall, North Carolina outperformed the national average across the four reported quality measures. However, regional analysis revealed that Eastern North Carolina consistently underperformed compared to the state's other two regions. Data also indicates that non-profit inpatient rehabilitation facilities (IRFs) tend to have higher rates of hospital readmissions and falls resulting in major injury. It is important to note, however, that non-profit organizations represent the majority of IRFs in the state, which may influence these trends. Further investigation is warranted to better understand the underlying factors contributing to the lower performance scores in Eastern North Carolina. Additionally, due to limited data availability at the time of this project, a more accurate analysis of the Discharge Function Score could not be completed and will require additional data collection.
