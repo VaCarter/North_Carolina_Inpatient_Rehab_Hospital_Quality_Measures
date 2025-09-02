@@ -3,6 +3,7 @@ A comparitive analysis of the quality measure scores of Inpatient Rehab Hospital
 
 ## Table of Contents
 * [Presentation](#Presentation)
+* [Dashboard](#Dashboard)
 * [Motivation](#motivation)
 * [Questions](#questions)
 * [Normalizing the Data](#normalizing-the-data)
@@ -13,6 +14,9 @@ A comparitive analysis of the quality measure scores of Inpatient Rehab Hospital
 
 ## Presentation
 https://www.canva.com/design/DAGwLbN1vs4/PsJTERQtYfK5Nr3FoTzdMQ/edit?utm_content=DAGwLbN1vs4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+## Dashboard
+https://app.powerbi.com/view?r=eyJrIjoiNTViNTZiNTgtODQyNy00MTBiLTg5NzEtYzY2Y2MzYzc1OTJkIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9
 
 ## Motivation
 As a physical therapist with over 13 years of experience in both acute care and non-clinical settings, I have consistently relied on functional outcome measures as a key component of patient evaluations and periodic reassessments. These tools are essential for tracking patient progress, determining levels of disability, and supporting effective discharge planning.
